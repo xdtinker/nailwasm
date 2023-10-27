@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.12"/>
+        <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.12" PrivateAssets="all"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <UpToDateCheckBuilt Include="Styles/source.css" Set="Css" />
+        <UpToDateCheckBuilt Include="tailwind.config.js" Set="Css" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot\images\" />
+    </ItemGroup>
+
+    <Target Name="Tailwind" BeforeTargets="Build">
+        <Exec Command="npm run css:build"/>
+    </Target>
+
+</Project>

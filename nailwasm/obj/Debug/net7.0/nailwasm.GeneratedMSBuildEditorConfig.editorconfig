@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = nailwasm
+build_property.RootNamespace = nailwasm
+build_property.ProjectDir = C:\Users\Aziz\Documents\JetBrain\Rider\nailwasm\nailwasm\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aziz\Documents\JetBrain\Rider\nailwasm\nailwasm
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Banner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCYW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Cards.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/CheckoutForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGVja291dEZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Cta.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Divider.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaXZpZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Faqs.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGYXFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Heading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/HeroOFFSET.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZXJvT0ZGU0VULnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/LogoCloud.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2dvQ2xvdWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/SectionHeading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uSGVhZGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Tabs.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUYWJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Components/Timeline.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaW1lbGluZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Appointment.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/ARBook.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQVJCb29rLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Category.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Gallery.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Signup.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbnVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Pages/Technician.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjaG5pY2lhbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Shared/HomeServices.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVTZXJ2aWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wrjrfrkl11
+
+[C:/Users/Aziz/Documents/JetBrain/Rider/nailwasm/nailwasm/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-itr4e9no8v
